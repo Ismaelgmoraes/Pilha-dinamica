@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660505669 source:c:\users\samuel\documents\lista encadeada\main.cpp
+	<iostream>
+	"Lista_encadeada.h"
+
+1660505347 source:c:\users\samuel\documents\lista encadeada\src\lista_encadeada.cpp
+	<iostream>
+	<cstddef>
+	"Lista_encadeada.h"
+
+1660486193 c:\users\samuel\documents\lista encadeada\include\lista_encadeada.h
+
